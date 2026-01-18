@@ -85,3 +85,12 @@ The website is designed to be fully responsive using media queries:
 
 git clone https://github.com/abhay-chayal/internship_project-1.git
 
+---
+Screenshot of the landing page in both light and dark mode: 
+<img width="2014" height="6506" alt="127 0 0 1_5500_ (1)" src="https://github.com/user-attachments/assets/deb1d04b-7b39-4059-8654-78540981c552" />
+
+<img width="2014" height="6506" alt="127 0 0 1_5500_" src="https://github.com/user-attachments/assets/d8a49934-1697-4173-9b8b-a04c4e15c479" />
+
+
+
+
